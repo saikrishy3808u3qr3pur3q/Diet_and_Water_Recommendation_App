@@ -53,10 +53,10 @@ Run the following command to get all required Flutter packages:
 flutter pub get
 ```
 
-### Start the Flask Server
+### Start the Flutter Frontend
 
 Make sure your virtual environment is activated and then run the Flask app:
 
 ```bash
-python Flask_Server/app.py
+flutter run
 ```
