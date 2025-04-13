@@ -25,11 +25,10 @@ Before running the app, make sure you have the following installed:
 
 ### Install required Python packages
 
-It's recommended to create a virtual environment to manage dependencies:
+Run the following command to install the required packages:
 
 ```bash
-python -m venv venv
-source venv/bin/activate   # On Windows use `venv\Scripts\activate`
+pip install flask numpy pandas joblib
 ```
 ### Start the Flask server
 
