@@ -59,3 +59,6 @@ Make sure your virtual environment is activated and then run the Flask app:
 ```bash
 flutter run
 ```
+
+![WhatsApp Image 2025-04-13 at 13 14 00_b92fdcb2](https://github.com/user-attachments/assets/043d0432-e609-4541-ad85-962cb6102e49)
+
