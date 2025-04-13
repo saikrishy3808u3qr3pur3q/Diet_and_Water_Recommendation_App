@@ -30,3 +30,10 @@ It's recommended to create a virtual environment to manage dependencies:
 ```bash
 python -m venv venv
 source venv/bin/activate   # On Windows use `venv\Scripts\activate`
+```
+### Start the Flask server
+
+Make sure your virtual environment is activated and then run the Flask app:
+
+```bash
+python Flask_Server/app.py
