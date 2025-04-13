@@ -37,3 +37,11 @@ Make sure your virtual environment is activated and then run the Flask app:
 
 ```bash
 python Flask_Server/app.py
+```
+### Setting up the Flutter Front-End
+
+Navigate to the Flutter front-end folder:
+
+```bash
+cd Front_end_flutter
+```
