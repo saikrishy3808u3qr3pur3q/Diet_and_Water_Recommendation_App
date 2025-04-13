@@ -45,3 +45,10 @@ Navigate to the Flutter front-end folder:
 ```bash
 cd Front_end_flutter
 ```
+### Install the Flutter dependencies
+
+Run the following command to get all required Flutter packages:
+
+```bash
+flutter pub get
+```
