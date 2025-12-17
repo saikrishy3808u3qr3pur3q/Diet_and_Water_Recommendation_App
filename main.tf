@@ -1,5 +1,5 @@
 # Note: Terraform has nothing to do with the containrization of the application.
-# Its used to define all the infrastractre components (Server/Database/Networking)
+# Its used to define all the infrastractre components (Server/Database/Networking)dummy commit
 
 terraform {
     required_providers {
