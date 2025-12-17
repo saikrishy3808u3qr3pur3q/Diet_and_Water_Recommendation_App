@@ -14,6 +14,10 @@ variable "db_name" {
     default = "mydb"
     type = string
 }
+variable "db_name1" {
+    default = "mydb1"
+    type = string
+}
 
 variable "vpc_cidr" {
     default = "10.0.0.0/16"
